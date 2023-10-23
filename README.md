@@ -1,7 +1,5 @@
-# clone
+#usage
 -b1:Mở mysql và thêm cái này 
--b2:mở terminal chạy npm i để cài đặt thư viên
-- b3:mở terminal chạy npm start
 
 //Sql
 CREATE DATABASE weather_data;
@@ -23,3 +21,6 @@ ADD timestamp DATETIME
 drop table weatherData;
 
 select * from weatherData;
+
+-b2:mở terminal chạy npm i để cài đặt thư viên
+- b3:mở terminal chạy npm start
